@@ -10,6 +10,8 @@ Developer and Entrepreneur. Currently studying Computer Engineering. I love web/
 
 - ⚡ In addition to developer analyst, Founder/CTO at [Firecat Services](https://firecat.com.br/).
 
+- 😀 My portfolio [Wataya](http://wataya.firecat.com.br/).
+
 - 💎 My main technologies: ReactJS, NodeJS, React Native, PHP.
 
 - 📫 How to reach me: contato@firecat.com.br
