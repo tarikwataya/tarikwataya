@@ -1,6 +1,6 @@
 # ⚡ Tárik Wataya
 
-**Developer Analyst @liax**
+**Frontend Engineer React @pixter**
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-bd4a2d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tarik_wataya/)](https://www.instagram.com/tarik_wataya/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tarikwataya/)](https://github.com/tarikwataya/)
